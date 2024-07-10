@@ -48,8 +48,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- CMNT
 - GLAS
+- CMNT
 - LIME
 - PIPE
 - SAND
